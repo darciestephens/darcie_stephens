@@ -1,0 +1,20 @@
+{
+  "name": "darcie_stephens",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "dependents": {
+      "crypto-utility-xid": "^1.0.0"
+  },
+  "keywords": [
+      "crypto",
+      "currency",
+      "utility"
+  ],
+  "author": "darciestephens",
+  "license": "MIT",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/darciestephens/darcie_stephens.git"
+  }
+}
